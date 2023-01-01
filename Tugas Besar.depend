@@ -1,0 +1,15 @@
+# depslib dependency file v1.0
+1672531736 source:d:\tb\tugas besar\main.cpp
+	"tubes.h"
+	<iostream>
+
+1672531774 d:\tb\tugas besar\tubes.h
+	<iostream>
+
+1672531949 source:d:\tb\tugas besar\tubes.cpp
+	"tubes.h"
+
+1672363571 source:d:\tb\tugas besar\ok.cpp
+	"tubes.h"
+	<iostream>
+
